@@ -27,7 +27,7 @@ Procedures:
 - POLICÍA-EXP.TARJETA ASOCIADA AL ACUERDO DE RETIRADA CIUDADANOS BRITÁNICOS Y SUS FAMILIARES (BREXIT)
 
 Provinces:
-- Barcelona
+- Tarragona
 - Santa Cruz de Tenerife
 
 Other provinces are also supported if you leave `offices` empty and that way try and get an appointment in a random office, but if you're required to select a specific office (as in case of `OperationType.RECOGIDA_DE_TARJETA`), you should figure out office ids for your province from the appropriate page on your own.
